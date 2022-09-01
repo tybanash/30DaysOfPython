@@ -30,6 +30,7 @@ is_light_on = True
 x, y, z = 2, 4, 8
 print()
 
+
 #Check the data type of all your variables using type() built-in function
 print(type(first_name))
 print(type(last_name))
